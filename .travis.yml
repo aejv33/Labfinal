@@ -11,4 +11,5 @@ install:
 
 script:
 #  - flake8 
-  - bash sonar_scanner.sh
+  - sh sonar_scanner.sh
+  #- bash sonar_scanner.sh
